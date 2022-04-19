@@ -1,0 +1,605 @@
+{
+  "playlists": [
+    {
+      "name": "No rush",
+      "lastModifiedDate": "2022-02-22",
+      "items": [
+        {
+          "track": {
+            "trackName": "Avril 14th",
+            "artistName": "Aphex Twin",
+            "albumName": "Drukqs",
+            "trackUri": "spotify:track:2MZSXhq4XDJWu6coGoXX1V"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Time",
+            "artistName": "Hans Zimmer",
+            "albumName": "Inception",
+            "trackUri": "spotify:track:6ZFbXIJkuI1dVNWvzJzown"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Merry Christmas Mr. Lawrence",
+            "artistName": "Ryuichi Sakamoto",
+            "albumName": "1996",
+            "trackUri": "spotify:track:5VuwAhMCz9EMg3RHL1KUEr"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Lonely Dolphin Mystery",
+            "artistName": "kordz",
+            "albumName": "Lonely Dolphin Mystery",
+            "trackUri": "spotify:track:5tFAgsrvj2ZAWkpAMCVmlV"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "1==0",
+      "lastModifiedDate": "2022-02-22",
+      "items": [
+        {
+          "track": {
+            "trackName": "Happy Cycling",
+            "artistName": "Boards of Canada",
+            "albumName": "Music Has The Right To Children",
+            "trackUri": "spotify:track:6G4Iu30Hp9SHWQ1k2Fow7i"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Roygbiv",
+            "artistName": "Boards of Canada",
+            "albumName": "Music Has The Right To Children",
+            "trackUri": "spotify:track:2XQSgmtEY2titXhfY414dy"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Chromakey Dreamcoat",
+            "artistName": "Boards of Canada",
+            "albumName": "The Campfire Headphase",
+            "trackUri": "spotify:track:2YxoC2dYOotjqt08dEifsc"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Cherry-coloured Funk",
+            "artistName": "Cocteau Twins",
+            "albumName": "Heaven or Las Vegas",
+            "trackUri": "spotify:track:37pKTyMwalomKCZjxTc2QZ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Pack Yr Romantic Mind",
+            "artistName": "Stereolab",
+            "albumName": "Transient Random-Noise Bursts With Announcements",
+            "trackUri": "spotify:track:79vjmzHz7zmXOBzy1w4Zin"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Alien Crime Lord",
+            "artistName": "The Voidz",
+            "albumName": "Alien Crime Lord",
+            "trackUri": "spotify:track:4S5T3NPeWSPqgb3ElxL8MN"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "QYURRYUS",
+            "artistName": "The Voidz",
+            "albumName": "Virtue",
+            "trackUri": "spotify:track:6pMRk6Tr05wmZSSINOqzE3"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Trying Your Luck",
+            "artistName": "The Strokes",
+            "albumName": "Is This It",
+            "trackUri": "spotify:track:5KupfEBaVJwL7D2ZN0n1Q1"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "12:51",
+            "artistName": "The Strokes",
+            "albumName": "Room On Fire",
+            "trackUri": "spotify:track:6Yu1OL8I0D4vjOzYdsXYGK"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Money",
+            "artistName": "The Drums",
+            "albumName": "Portamento",
+            "trackUri": "spotify:track:3VIJBrMpvimHEw5wtPh2wB"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Water World",
+            "artistName": "Derek Pope",
+            "albumName": "Miracle Mile",
+            "trackUri": "spotify:track:557GPWoXsbALezINZhftNf"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "ilove urr girl",
+            "artistName": "oaf1",
+            "albumName": "ilove urr girl",
+            "trackUri": "spotify:track:446tJwawEdurNyvwt4jn1X"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "doing it wrong",
+            "artistName": "oaf1",
+            "albumName": "doing it wrong",
+            "trackUri": "spotify:track:0pgktTvc5KgQU9jFusDtZC"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "poster",
+            "artistName": "oaf1",
+            "albumName": "poster",
+            "trackUri": "spotify:track:1WEWaQIqigWoe5riED8Hmz"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "think abt it",
+            "artistName": "oaf1",
+            "albumName": "think abt it",
+            "trackUri": "spotify:track:6MCYfUWQixdULHVaDm4Hgo"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "its hard :/",
+            "artistName": "oaf1",
+            "albumName": "its hard :/",
+            "trackUri": "spotify:track:7nvJwoH6ZHqPJ4Vse1fTL3"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Obsessed With You",
+            "artistName": "Central Cee",
+            "albumName": "Obsessed With You",
+            "trackUri": "spotify:track:4PYfFHKfjYz6dwAtZhBy1z"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Girls just want to have fun",
+            "artistName": "Bladee",
+            "albumName": "Girls just want to have fun",
+            "trackUri": "spotify:track:16aNHWdWoO9zobj4lqAoWV"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Time",
+            "artistName": "Ecco2k",
+            "albumName": "E",
+            "trackUri": "spotify:track:3CaRo5FhGdAIjUhUM006ES"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Calcium",
+            "artistName": "Ecco2k",
+            "albumName": "E",
+            "trackUri": "spotify:track:0D6MyCMzbniMYWHYyCcv5N"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "My Girls",
+            "artistName": "Animal Collective",
+            "albumName": "Merriweather Post Pavilion",
+            "trackUri": "spotify:track:2gE0khQ948RYQOeTgCUL2a"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "So Good At Being in Trouble",
+            "artistName": "Unknown Mortal Orchestra",
+            "albumName": "II",
+            "trackUri": "spotify:track:2lwi35A2ym3FAmSlvOGnQp"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Texas Sun",
+            "artistName": "Khruangbin",
+            "albumName": "Texas Sun",
+            "trackUri": "spotify:track:24ntSW3QVJzR79lHAAOTaY"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Freeze Tag (feat. Phoelix)",
+            "artistName": "Terrace Martin",
+            "albumName": "Dinner Party",
+            "trackUri": "spotify:track:47v4uUtj5AukJmCbMq4Kry"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Common People",
+            "artistName": "Pulp",
+            "albumName": "Different Class",
+            "trackUri": "spotify:track:2fXKyAyPrEa24c6PJyqznF"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Do You Realize??",
+            "artistName": "The Flaming Lips",
+            "albumName": "Yoshimi Battles the Pink Robots",
+            "trackUri": "spotify:track:2DFRFqWNahKtFD112H2iEZ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "White Gloves",
+            "artistName": "Khruangbin",
+            "albumName": "The Universe Smiles Upon You",
+            "trackUri": "spotify:track:4AKUOaCRcoKTFnVI9LtsrN"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Baby Powder",
+            "artistName": "Jenevieve",
+            "albumName": "Division",
+            "trackUri": "spotify:track:4Nw7kywWurWS6ceinn1cHK"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Wake Up Alone",
+            "artistName": "Amy Winehouse",
+            "albumName": "Back To Black",
+            "trackUri": "spotify:track:2pxCOdnHEZZ3A1XRNxjc1v"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Homage",
+            "artistName": "Mild High Club",
+            "albumName": "Skiptracing",
+            "trackUri": "spotify:track:7DcJ6fEBb7BaKuYKTwiDxK"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Car 2",
+      "lastModifiedDate": "2022-01-29",
+      "items": [
+        {
+          "track": {
+            "trackName": "We Might Be Dead By Tomorrow",
+            "artistName": "Soko",
+            "albumName": "I Thought I Was An Alien",
+            "trackUri": "spotify:track:49A10weBfgwg4TUM3My7iv"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Chosen",
+            "artistName": "Blood Orange",
+            "albumName": "Cupid Deluxe",
+            "trackUri": "spotify:track:0AHJWgA2mLYz2iFVwbCeod"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Doorman",
+            "artistName": "slowthai",
+            "albumName": "Nothing Great About Britain",
+            "trackUri": "spotify:track:7wMCECqH5hlj6HF2J2LKAZ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Last Day Of Summer",
+            "artistName": "The Cure",
+            "albumName": "Bloodflowers",
+            "trackUri": "spotify:track:1tr425D7noUgk7bGuT2mJu"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Wish You Were Here",
+            "artistName": "Pink Floyd",
+            "albumName": "Wish You Were Here",
+            "trackUri": "spotify:track:6mFkJmJqdDVQ1REhVfGgd1"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Hey You",
+            "artistName": "Pink Floyd",
+            "albumName": "The Wall",
+            "trackUri": "spotify:track:7F02x6EKYIQV3VcTaTm7oN"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Destruction of the Disgusting Ugly Hate",
+            "artistName": "Soko",
+            "albumName": "I Thought I Was an Alien",
+            "trackUri": "spotify:track:4HzFc4NrBUYkuE66Rj6jzx"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": null,
+          "episode": {
+            "episodeName": "Soulja Boy ft. Tory Lanez - She Make It Clap (Remix)",
+            "showName": "She Make It Clap - Remix",
+            "episodeUri": "spotify:episode:5o53wRj4HeBUBLMjJufOvG"
+          },
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "mood",
+      "lastModifiedDate": "2022-02-22",
+      "items": [
+        {
+          "track": {
+            "trackName": "sangria",
+            "artistName": "easy life",
+            "albumName": "sangria",
+            "trackUri": "spotify:track:79tTcoeAq2Dt2qlH3CHm3m"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "We Might Be Dead By Tomorrow",
+            "artistName": "Soko",
+            "albumName": "I Thought I Was An Alien",
+            "trackUri": "spotify:track:49A10weBfgwg4TUM3My7iv"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Chosen",
+            "artistName": "Blood Orange",
+            "albumName": "Cupid Deluxe",
+            "trackUri": "spotify:track:0AHJWgA2mLYz2iFVwbCeod"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Glitter",
+            "artistName": "070 Shake",
+            "albumName": "Glitter",
+            "trackUri": "spotify:track:4DJ9ZxVFyv8AWdBmZnV0CN"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Morrow",
+            "artistName": "070 Shake",
+            "albumName": "Modus Vivendi",
+            "trackUri": "spotify:track:3sIoWQZbJqUKj5iELz8eTA"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Guilty Conscience",
+            "artistName": "070 Shake",
+            "albumName": "Guilty Conscience",
+            "trackUri": "spotify:track:50aTwBKhPD3D3BW04UtjmA"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Falling",
+            "artistName": "Trevor Daniel",
+            "albumName": "Falling",
+            "trackUri": "spotify:track:4TnjEaWOeW0eKTKIEvJyCa"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Doorman",
+            "artistName": "slowthai",
+            "albumName": "Nothing Great About Britain",
+            "trackUri": "spotify:track:7wMCECqH5hlj6HF2J2LKAZ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Chanel",
+            "artistName": "Frank Ocean",
+            "albumName": "Chanel",
+            "trackUri": "spotify:track:6Nle9hKrkL1wQpwNfEkxjh"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "SUGAR",
+            "artistName": "BROCKHAMPTON",
+            "albumName": "GINGER",
+            "trackUri": "spotify:track:6U0FIYXCQ3TGrk4tFpLrEA"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Genesis",
+            "artistName": "Grimes",
+            "albumName": "Visions",
+            "trackUri": "spotify:track:48p1tayyXF3eh8E3Y4pXmK"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Rain",
+            "artistName": "Ryuichi Sakamoto",
+            "albumName": "1996",
+            "trackUri": "spotify:track:42qvHblK2JjrBAJaoKSJxX"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "home with you",
+            "artistName": "FKA twigs",
+            "albumName": "MAGDALENE",
+            "trackUri": "spotify:track:7BpykYGkewMF00FzSJLSgH"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Scotty Doesn't Know",
+            "artistName": "Lustra",
+            "albumName": "Left for Dead",
+            "trackUri": "spotify:track:1LkoYGxmYpO6QSEvY5C0Zl"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Stop Snitchin",
+            "artistName": "YG",
+            "albumName": "4REAL 4REAL",
+            "trackUri": "spotify:track:5IjRKZlpKVBBRn0COL7pik"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    }
+  ]
+}
